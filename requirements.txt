@@ -1,4 +1,3 @@
-python
 streamlit
 selinium
-webdriver
+webdriver-manager
